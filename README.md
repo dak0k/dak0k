@@ -17,7 +17,7 @@
 <a href="https://discordapp.com/users/1059862051289317396" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dak0k_#6969" height="30" width="40" /></a>
   
 </p>
-<h3 align="left">Ploblem solved</h3>
+<h3 align="left">Problem solved</h3>
 <p align="left"> <a href="https://stepik.org/users/3880458886" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/6727350?s=200&v=4" alt="stepik" height="30" width="30" /></a>
       <a href="https://acmp.ru/index.asp?main=user&id=328476" target="blank"><img align="center" src="https://acmp.ru/images/120x120.svg" height="30" width="30" /></a></p>
 <h3 align="left">Languages and Tools:</h3>
