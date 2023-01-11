@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adaibekov Darkhan</h1>
-<h3 align="center">I am a fullstack developer from Kazakhstan. I'm 17. I am studying in college to be a web technoligies in the field of IT.</h3>
+<h3 align="center">I am a fullstack developer from Kazakhstan. I'm 17. I am studying in college to be a web technologies in the field of IT.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dak00&label=Profile%20views&color=0e75b6&style=flat" alt="adaibekovdarkhan" /> </p>
 
