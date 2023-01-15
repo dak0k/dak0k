@@ -109,5 +109,4 @@ I am a fullstack developer  👨‍💻 from Kazakhstan. I'm 17. I am studying i
             </a></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
