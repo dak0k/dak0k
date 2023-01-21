@@ -4,7 +4,7 @@
   
 <p></p>
 ### <div align="center">
-  <h1>I am a fullstack developer  👨‍💻 from Kazakhstan. I'm 17. I am studying in Atyrau College of Energy and Construction  to be a web technologies in the field of IT.</h1>
+  <h3>I am a fullstack developer  👨‍💻 from Kazakhstan. I'm 17. I am studying in Atyrau College of Energy and Construction  to be a web technologies in the field of IT.</h3>
 
 </div>  
   
