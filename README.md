@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-
+<p></p>
 ### <div align="center">
 I am a fullstack developer  👨‍💻 from Kazakhstan. I'm 17. I am studying in Atyrau College of Energy and Construction  to be a web technologies in the field of IT.
 </div>  
