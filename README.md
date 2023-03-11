@@ -27,7 +27,7 @@
 <br/>  
 
 ##<h2> My projects</h2>
-<br/>  
+
 A-Pro : a-pro.kz
 <br/>  
 QunarlyZher : bioorg.kz
