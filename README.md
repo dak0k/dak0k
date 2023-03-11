@@ -25,10 +25,14 @@
 <img src='https://www.codewars.com/users/dak0k/badges/large'>
 
 <br/>  
-## My projects
+
+##<h2> My projects</h2>
+<br/>  
 A-Pro : a-pro.kz
+<br/>  
 QunarlyZher : bioorg.kz
 <br/>  
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
