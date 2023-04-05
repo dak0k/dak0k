@@ -32,6 +32,8 @@ A-Pro : a-pro.kz
 <br/>  
 QunarlyZher : bioorg.kz
 <br/>  
+Optomdordoi: optomdordoi.ru
+<br/>  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
