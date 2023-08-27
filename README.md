@@ -38,3 +38,12 @@
                     align="center"
                 />
             </a></p><br><br>
+             <?php
+   for($V=1;$V<10;$V++){
+       echo "<tr>";
+       for($j=1;$j<10;$j++){
+           echo "<td>".$V*$j."<td>";
+       }
+       echo "<tr>";
+   }
+    ?>
